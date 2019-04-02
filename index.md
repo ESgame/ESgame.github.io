@@ -16,3 +16,6 @@ title: Game
 
 - [puzzle](puzzle)
 
+# maze
+
+- [maze](maze)
